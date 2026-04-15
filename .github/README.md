@@ -1,5 +1,5 @@
 # Presentacion
-Hola soy mati frutos, legajo 233.885-3
+Hola soy mati frutos, legajo 233.885-3.
 # Sobre mi
 Me gusta la musica y los gatos, tengo 4. Adjunto fotos de ellos junto a sus nombress.
 
@@ -9,9 +9,11 @@ Bizcochito 7 añitos y Cindy 1 añito.
 
 <img width="1600" height="1200" alt="bizco y cindy 2" src="https://github.com/user-attachments/assets/9685b260-0b10-4151-ac96-35e0cb3c566b" />
 
+
 Zoe 3 añitos.
 
 <img width="720" height="1280" alt="zoe" src="https://github.com/user-attachments/assets/3361989e-053e-49ef-a74d-667f71da56b4" />
+
 
 Leon 13 añitos.
 
